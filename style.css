@@ -1,0 +1,23 @@
+*{
+    width: 100%;
+    margin: 0;
+    padding: 0;
+}
+.w-5x{
+    width: 200px;
+}
+.h-5y{
+    height: 25vh;
+}
+.d-flex-x{
+    display: flex;
+    justify-content:space-between ;
+    align-items: center;
+    gap: 20px;
+}
+.mr-5{
+    margin-right: 200px;
+}
+.d-inline-x{
+    margin-right: -70%;
+}
